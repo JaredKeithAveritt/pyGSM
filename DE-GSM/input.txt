@@ -1,4 +1,4 @@
-gsm  -xyzfile diels_alder.xyz  \
+gsm  -xyzfile molecule.xyz  \
     -mode DE_GSM \
     -nnodes 1 \
     -package Gaussian \

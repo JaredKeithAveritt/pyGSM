@@ -1,4 +1,4 @@
-gsm -xyzfile molecule.xyz `
+& "C:\path\to\gsm.exe" -xyzfile molecule.xyz `
     -mode DE_GSM `
     -num_nodes 1 `
     -package Gaussian `

@@ -1,0 +1,1 @@
+winget install --id Intel.oneAPI.BaseKit -e

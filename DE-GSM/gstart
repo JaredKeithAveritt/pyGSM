@@ -1,4 +1,5 @@
 %chk=job.chk
+%nprocshared=16
 #P B3LYP/6-31G* Force
    SCF=(DIIS,MaxCycle=150,Tight) 
    Integral=(Grid=SG1)

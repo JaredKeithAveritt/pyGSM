@@ -8,6 +8,6 @@ my_gsm_run/
 #set the gaussian binary
 #(may need to change path)
 
-$env:GAUSS_EXE="C:\Gaussian\g16.exe"
+$env:GAUSS_EXE="C:\g16w\g16.exe"
 
 

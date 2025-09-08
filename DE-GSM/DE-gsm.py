@@ -1,4 +1,4 @@
-from pygsm.level_of_theories.gaussian import Gaussian
+from pyGSM.level_of_theories.gaussian import Gaussian
 from pygsm.potential_energy_surfaces import PES
 from pygsm.optimizers import *
 from pygsm.wrappers import Molecule

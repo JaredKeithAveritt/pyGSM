@@ -1,3 +1,9 @@
+#set the gaussian binary
+#(may need to change path)
+
+$env:GAUSS_EXE="C:\Gaussian\g16.exe"
+
+
 gsm  -xyzfile molecule.xyz  \
     -mode DE_GSM \
     -nnodes 1 \

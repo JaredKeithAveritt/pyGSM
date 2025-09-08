@@ -1,4 +1,4 @@
-& "C:\path\to\gsm.exe" -xyzfile molecule.xyz `
+& "C:\Users\plhart\AppData\Local\miniconda\envs\pygsm\gsm.exe" -xyzfile molecule.xyz `
     -mode DE_GSM `
     -num_nodes 1 `
     -package Gaussian `

@@ -11,9 +11,3 @@ my_gsm_run/
 $env:GAUSS_EXE="C:\Gaussian\g16.exe"
 
 
-gsm  -xyzfile molecule.xyz  \
-    -mode DE_GSM \
-    -nnodes 1 \
-    -package Gaussian \
-    -lot_inp_file gstart \
-    -coordinate_type DLC > log 2>&1
